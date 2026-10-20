@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patnaiksushant.github.io/Pportfolio-website/sitemap.xml
